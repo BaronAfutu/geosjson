@@ -10,7 +10,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "Farm Name": "Maize 2",
-        "plow year": "25-65-2020"
+        "plow year": "25-65-2020",
+        "Owner": "Unowned"
       },
       "geometry": {
         "type": "Polygon",
